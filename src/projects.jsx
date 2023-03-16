@@ -19,7 +19,7 @@ export default function Projects(){
       <Text>View a summary of the project.</Text>
     </CardBody>
     <CardFooter>
-    <a href = 'https://github.com/Rupagowthaman/CodeTest' >      
+    <a href = 'https://github.com/Rupagowthaman/my-app-portfolio' >      
         <IconButton
             variant='outline'
             colorScheme='teal'
@@ -35,7 +35,7 @@ export default function Projects(){
       <Text>View a summary of the project.</Text>
     </CardBody>
     <CardFooter>
-    <a href = 'https://github.com/Rupagowthaman/CodeTest' >
+    <a href = 'https://github.com/Rupagowthaman/my-app-portfolio' >
       <IconButton
             variant='outline'
             colorScheme='teal'
@@ -51,7 +51,7 @@ export default function Projects(){
       <Text>View a summary of the project.</Text>
     </CardBody>
     <CardFooter>
-<a href = 'https://github.com/Rupagowthaman/CodeTest' >
+<a href = 'https://github.com/Rupagowthaman/my-app-portfolio' >
     <IconButton 
             variant='outline'
             colorScheme='teal'
